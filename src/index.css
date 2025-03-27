@@ -104,3 +104,8 @@ header a {
   font-weight: 600;
   font-size: 18px;
 }
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
